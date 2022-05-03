@@ -1,4 +1,5 @@
-**Alguns códigos comuns do Git:**
+  Alguns códigos comuns do Git:
+  
 - Listar arquivos - dir (windows) / ls (linux)
 - Navegar entre pastas - cd/ 
 - Retorna ao caminho anterior - cd..

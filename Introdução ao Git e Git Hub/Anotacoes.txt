@@ -1,0 +1,9 @@
+**Alguns códigos comuns do Git:**
+- Listar arquivos - dir (windows) / ls (linux)
+- Navegar entre pastas - cd/ 
+- Retorna ao caminho anterior - cd..
+- Limpar a tela - cls (windows) / clear ou ctrl+l (linux)
+- Criar pasta - mkdir + nome da pasta
+- Criar arquivo - echo nome > nome.txt
+- Apagar arquivos - del (windows)
+- Apagar pasta - rmdir (windows) / rm (linux)

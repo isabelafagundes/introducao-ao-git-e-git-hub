@@ -1,2 +1,2 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+Repositório criado para armazenar algumas anotações sobre comandos e conceitos do Git e Git Hub.

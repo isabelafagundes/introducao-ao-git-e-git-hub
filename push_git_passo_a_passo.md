@@ -1,5 +1,4 @@
-GIT PUSH - SCRIPT PARA SUBIR ARQUIVOS PARA O GIT HUB !!!
-
+### Git Push comandos
 
 git init
 
